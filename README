@@ -1,0 +1,15 @@
+@paragarora
+This folder should contain the following files: 
+1. smpptest.cfg
+2. smpp.jar
+3. smpptest.jar
+4. README
+
+Make sure all the files are present in the same folder. 
+
+Run the following command on your terminal to start SMPPClient simulator: 
+	$ java -cp smpp.jar:smpptest.jar com.logica.smpp.test.SMPPTest
+
+Follow the operations you need to perform once simulator is started by entering configuration values one by one
+
+Enjoy !
