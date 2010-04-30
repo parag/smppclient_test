@@ -9,6 +9,8 @@ Make sure all the files are present in the same folder.
 
 Run the following command on your terminal to start SMPPClient simulator: 
 	$ java -cp smpp.jar:smpptest.jar org.smpp.test.SMPPTest
+For Benchmarking
+        $ java -cp smpp.jar:smpptest.jar org.smpp.test.BenchMark
 
 Follow the operations you need to perform once simulator is started by entering configuration values one by one
 
